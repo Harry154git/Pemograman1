@@ -9,4 +9,5 @@ int main(){
     else{
      printf("%d %d",A,B);
     } 
+return 0;
 }
