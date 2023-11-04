@@ -12,10 +12,10 @@ int main(){
     else if(a>=100){
         printf("Anda Menginput Melebihi Limit Bilangan");
     }
-    else if(a>=20&&a<=99){
+    else if(a>=20){
         printf("puluhan");
     }
-    else if(a>=10&&a<20){
+    else if(a>=10){
         printf("belasan");
     }
     return 0;
